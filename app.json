@@ -1,9 +1,9 @@
 {
-  "name": "sᴛʀᴀɴɢᴇʀ-ʙᴀɴᴀʟʟ",
+  "name": "DS-ʙᴀɴᴀʟʟ",
   "description": "Telegram's bilek migic.",
   "keywords": ["python", "telegram"],
-  "logo": "https://graph.org/file/1d11deb9c55d1301e9cae.jpg",
-  "repository": "https://github.com/itzshukla/STRANGER-BANALL",
+  "logo": "https://files.catbox.moe/956q00.jpg",
+  "repository": "https://github.com/bolt9923/STRANGER-BANALL",
   "stack": "container",
   "addons": [
       {
